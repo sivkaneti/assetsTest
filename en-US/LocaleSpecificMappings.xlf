@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xliff version="1.0">
+<file source-language="en-US" target-language="en-US" datatype="plaintext" original="LocaleSpecificMappings.txt">
+<header/>
+<body>
+<trans-unit id="appliesto">
+<source>Applies to:</source>
+<target>Applies to:</target>
+</trans-unit>
+<trans-unit id="attention">
+<source>Attention:</source>
+<target>Attention:</target>
+</trans-unit>
+<trans-unit id="caution">
+<source>CAUTION:</source>
+<target>CAUTION:</target>
+</trans-unit>
+<trans-unit id="copyrightholder">
+<source>Copyright Holder:</source>
+<target>Copyright Holder:</target>
+</trans-unit>
+<trans-unit id="copyrightyear">
+<source>Copyright Year:</source>
+<target>Copyright Year:</target>
+</trans-unit>
+<trans-unit id="danger">
+<source>Danger:</source>
+<target>Danger:</target>
+</trans-unit>
+<trans-unit id="fastpath">
+<source>Fastpath:</source>
+<target>Fastpath:</target>
+</trans-unit>
+<trans-unit id="figure">
+<source>Figure</source>
+<target>Figure</target>
+</trans-unit>
+<trans-unit id="howtoavoid">
+<source>How to avoid:</source>
+<target>How to avoid:</target>
+</trans-unit>
+<trans-unit id="ifno">
+<source>IF no:</source>
+<target>IF no:</target>
+</trans-unit>
+<trans-unit id="ifyes">
+<source>IF yes:</source>
+<target>IF yes:</target>
+</trans-unit>
+<trans-unit id="important">
+<source>Important:</source>
+<target>Important:</target>
+</trans-unit>
+<trans-unit id="link">
+<source>Link</source>
+<target>Link</target>
+</trans-unit>
+<trans-unit id="notice">
+<source>Notice:</source>
+<target>Notice:</target>
+</trans-unit>
+<trans-unit id="other">
+<source>Other:</source>
+<target>Other:</target>
+</trans-unit>
+<trans-unit id="postrequisite">
+<source>Postrequisite:</source>
+<target>Postrequisite:</target>
+</trans-unit>
+<trans-unit id="prerequisite">
+<source>Prerequisite:</source>
+<target>Prerequisite:</target>
+</trans-unit>
+<trans-unit id="proceduresteps">
+<source>Procedure Steps:</source>
+<target>Procedure Steps:</target>
+</trans-unit>
+<trans-unit id="productname">
+<source>Product Name:</source>
+<target>Product Name:</target>
+</trans-unit>
+<trans-unit id="productversion">
+<source>Product Version:</source>
+<target>Product Version:</target>
+</trans-unit>
+<trans-unit id="remember">
+<source>Remember:</source>
+<target>Remember:</target>
+</trans-unit>
+<trans-unit id="restriction">
+<source>Restriction:</source>
+<target>Restriction:</target>
+</trans-unit>
+<trans-unit id="serialnumber">
+<source>Serial Number:</source>
+<target>Serial Number:</target>
+</trans-unit>
+<trans-unit id="tip">
+<source>Tip:</source>
+<target>Tip:</target>
+</trans-unit>
+<trans-unit id="typeofhazard">
+<source>Type of Hazard:</source>
+<target>Type of Hazard:</target>
+</trans-unit>
+<trans-unit id="warning">
+<source>WARNING:</source>
+<target>WARNING:</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
