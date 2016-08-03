@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<xliff version="1.0">
+<file source-language="en-US" target-language="de"  datatype="plaintext" original="LocaleSpecificMappings.txt">
+<header/>
+<body>
+<trans-unit id="appliesto">
+<source>Applies to:</source>
+<target>Trifft zu auf:</target>
+</trans-unit>
+<trans-unit id="attention">
+<source>Attention:</source>
+<target>Achtung:</target>
+</trans-unit>
+<trans-unit id="caution">
+<source>CAUTION:</source>
+<target>VORSICHT:</target>
+</trans-unit>
+<trans-unit id="copyrightholder">
+<source>Copyright Holder:</source>
+<target>Copyright-Inhaber:</target>
+</trans-unit>
+<trans-unit id="copyrightyear">
+<source>Copyright Year:</source>
+<target>Copyright-Jahr:</target>
+</trans-unit>
+<trans-unit id="danger">
+<source>Danger:</source>
+<target>Gefahr:</target>
+</trans-unit>
+<trans-unit id="fastpath">
+<source>Fastpath:</source>
+<target>Schneller Pfad:</target>
+</trans-unit>
+<trans-unit id="figure">
+<source>Figure</source>
+<target>Abbildung</target>
+</trans-unit>
+<trans-unit id="howtoavoid">
+<source>How to avoid:</source>
+<target>Vermeidungsstrategie:</target>
+</trans-unit>
+<trans-unit id="ifno">
+<source>IF no:</source>
+<target>Falls Nein:</target>
+</trans-unit>
+<trans-unit id="ifyes">
+<source>IF yes:</source>
+<target>Falls Ja:</target>
+</trans-unit>
+<trans-unit id="important">
+<source>Important:</source>
+<target>Wichtig:</target>
+</trans-unit>
+<trans-unit id="link">
+<source>Link</source>
+<target>Link</target>
+</trans-unit>
+<trans-unit id="notice">
+<source>Notice:</source>
+<target>Hinweis:</target>
+</trans-unit>
+<trans-unit id="other">
+<source>Other:</source>
+<target>Andere:</target>
+</trans-unit>
+<trans-unit id="postrequisite">
+<source>Postrequisite:</source>
+<target>Nach-Voraussetzung:</target>
+</trans-unit>
+<trans-unit id="prerequisite">
+<source>Prerequisite:</source>
+<target>Voraussetzung:</target>
+</trans-unit>
+<trans-unit id="proceduresteps">
+<source>Procedure Steps:</source>
+<target>Verfahrensschritte:</target>
+</trans-unit>
+<trans-unit id="productname">
+<source>Product Name:</source>
+<target>Produktname:</target>
+</trans-unit>
+<trans-unit id="productversion">
+<source>Product Version:</source>
+<target>Produktversion:</target>
+</trans-unit>
+<trans-unit id="remember">
+<source>Remember:</source>
+<target>Erinnerung:</target>
+</trans-unit>
+<trans-unit id="restriction">
+<source>Restriction:</source>
+<target>Einschränkung:</target>
+</trans-unit>
+<trans-unit id="serialnumber">
+<source>Serial Number:</source>
+<target>Seriennummer:</target>
+</trans-unit>
+<trans-unit id="tip">
+<source>Tip:</source>
+<target>Tipp:</target>
+</trans-unit>
+<trans-unit id="typeofhazard">
+<source>Type of Hazard:</source>
+<target>Art der Gefährdung:</target>
+</trans-unit>
+<trans-unit id="warning">
+<source>WARNING:</source>
+<target>WARNUNG:</target>
+</trans-unit>
+</body>
+</file>
+</xliff>
